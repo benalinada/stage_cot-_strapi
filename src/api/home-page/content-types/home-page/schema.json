@@ -1,0 +1,97 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "home_page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "div_dynamique": {
+      "type": "dynamiczone",
+      "components": [
+        "div-welcome.slider1",
+        "div-welcome.slider2",
+        "div-welcome.slider3"
+      ]
+    },
+    "div_fix": {
+      "type": "component",
+      "repeatable": true,
+      "component": "div-fix.div-fix"
+    },
+    "div_dental_treatments": {
+      "displayName": "div_dental_treatments",
+      "type": "component",
+      "repeatable": false,
+      "component": "div2.div-dental-treatments"
+    },
+    "div_Tips": {
+      "displayName": "div2",
+      "type": "component",
+      "repeatable": false,
+      "component": "div3.div2"
+    },
+    "div_dental_specialists": {
+      "displayName": "div4",
+      "type": "component",
+      "repeatable": false,
+      "component": "div4.div4"
+    },
+    "div_working_hours": {
+      "displayName": "div5",
+      "type": "component",
+      "repeatable": false,
+      "component": "div5.div5"
+    },
+    "div_Appointment": {
+      "displayName": "div6",
+      "type": "component",
+      "repeatable": false,
+      "component": "div6.div6"
+    },
+    "div_service": {
+      "type": "component",
+      "repeatable": true,
+      "component": "div2.div-dental-treatments"
+    },
+    "div_tips2": {
+      "displayName": "div7",
+      "type": "component",
+      "repeatable": false,
+      "component": "div7.div7"
+    },
+    "detail": {
+      "displayName": "div9",
+      "type": "component",
+      "repeatable": true,
+      "component": "div9.div9"
+    },
+    "info": {
+      "displayName": "div10",
+      "type": "component",
+      "repeatable": false,
+      "component": "div10.div10"
+    },
+    "div_News": {
+      "displayName": "div-11",
+      "type": "component",
+      "repeatable": false,
+      "component": "div-11.div-11"
+    },
+    "div_icon_of_partners": {
+      "displayName": "div12",
+      "type": "component",
+      "repeatable": false,
+      "component": "div12.div12"
+    },
+    "slug": {
+      "type": "uid"
+    }
+  }
+}

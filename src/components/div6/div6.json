@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_div6_div6s",
+  "info": {
+    "displayName": "div6",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "service": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::service.service"
+    },
+    "staff": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::staf.staf"
+    },
+    "date": {
+      "type": "date"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    }
+  }
+}

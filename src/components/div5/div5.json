@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_div5_div5s",
+  "info": {
+    "displayName": "div5",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "hours": {
+      "displayName": "hours",
+      "type": "component",
+      "repeatable": true,
+      "component": "hours.hours"
+    }
+  }
+}

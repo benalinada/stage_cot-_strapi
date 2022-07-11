@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_div3_div2s",
+  "info": {
+    "displayName": "div2",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "Tips": {
+      "displayName": "liste",
+      "type": "component",
+      "repeatable": true,
+      "component": "liste-tips.liste"
+    }
+  }
+}

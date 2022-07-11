@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_line_lines",
+  "info": {
+    "displayName": "line",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}

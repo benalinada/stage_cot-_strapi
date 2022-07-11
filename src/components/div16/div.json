@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_div16_divs",
+  "info": {
+    "displayName": "div"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "titel": {
+      "type": "string"
+    },
+    "frame": {
+      "displayName": "frame1",
+      "type": "component",
+      "repeatable": true,
+      "component": "frameee.frame1"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

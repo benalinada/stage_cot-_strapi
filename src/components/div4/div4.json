@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_div4_div4s",
+  "info": {
+    "displayName": "div4"
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "string"
+    },
+    "liste_dental_specialists": {
+      "displayName": "liste",
+      "type": "component",
+      "repeatable": true,
+      "component": "liste-specialiste.liste"
+    }
+  }
+}

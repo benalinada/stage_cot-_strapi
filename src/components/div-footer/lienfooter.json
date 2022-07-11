@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_div_footer_lienfooters",
+  "info": {
+    "displayName": "lienfooter"
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "mail": {
+      "type": "email"
+    }
+  }
+}

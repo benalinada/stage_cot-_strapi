@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_div7_div7s",
+  "info": {
+    "displayName": "div7",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cover_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "titel": {
+      "type": "string",
+      "required": true
+    },
+    "tips": {
+      "type": "richtext"
+    }
+  }
+}

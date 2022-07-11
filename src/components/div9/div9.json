@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_div9_div9s",
+  "info": {
+    "displayName": "div9"
+  },
+  "options": {},
+  "attributes": {
+    "frame_info": {
+      "displayName": "div9-1",
+      "type": "component",
+      "repeatable": true,
+      "component": "div9-1.div9-1"
+    }
+  }
+}

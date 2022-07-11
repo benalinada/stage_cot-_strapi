@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_div15_divs",
+  "info": {
+    "displayName": "div",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "button1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    },
+    "button2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    }
+  }
+}

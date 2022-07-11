@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_seo_div_divs",
+  "info": {
+    "displayName": "div"
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    }
+  }
+}

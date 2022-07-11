@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_div2_div_dental_treatments",
+  "info": {
+    "displayName": "div_dental_treatments",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "string"
+    },
+    "liste": {
+      "displayName": "liste_dental_treatments",
+      "type": "component",
+      "repeatable": true,
+      "component": "liste-frame.liste-dental-treatments"
+    }
+  }
+}

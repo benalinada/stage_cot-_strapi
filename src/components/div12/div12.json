@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_div12_div12s",
+  "info": {
+    "displayName": "div12"
+  },
+  "options": {},
+  "attributes": {
+    "icon_Partner": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_liste_specialiste_listes",
+  "info": {
+    "displayName": "liste",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "non_spacialiste": {
+      "type": "string"
+    },
+    "specialty": {
+      "type": "richtext"
+    },
+    "icon_social_media": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "link": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "label": {
+      "type": "string"
+    }
+  }
+}

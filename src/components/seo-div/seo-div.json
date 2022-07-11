@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_seo_div_seo_divs",
+  "info": {
+    "displayName": "seo_div"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

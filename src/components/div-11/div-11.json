@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_div_11_div_11s",
+  "info": {
+    "displayName": "div-11"
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "string"
+    },
+    "frame_news": {
+      "displayName": "frame",
+      "type": "component",
+      "repeatable": true,
+      "component": "frame.frame"
+    }
+  }
+}

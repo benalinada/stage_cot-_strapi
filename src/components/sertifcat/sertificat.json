@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sertifcat_sertificats",
+  "info": {
+    "displayName": "sertificat",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

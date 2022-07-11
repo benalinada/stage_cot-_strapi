@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_div_fix_div_fixes",
+  "info": {
+    "displayName": "div_fix",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    },
+    "button1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    }
+  }
+}

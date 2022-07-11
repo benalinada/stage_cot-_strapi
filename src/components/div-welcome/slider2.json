@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_div_welcome_slider2s",
+  "info": {
+    "displayName": "slider2",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "richtext"
+    },
+    "button1": {
+      "type": "string"
+    },
+    "button2": {
+      "type": "string"
+    },
+    "cover_image2": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

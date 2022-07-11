@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "dentist_pages",
+  "info": {
+    "singularName": "dentist-page",
+    "pluralName": "dentist-pages",
+    "displayName": "Dentist_page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Specialists": {
+      "type": "component",
+      "repeatable": true,
+      "component": "liste-specialiste.liste"
+    },
+    "info": {
+      "type": "dynamiczone",
+      "components": [
+        "infoo.general-info",
+        "sertifcat.sertificat",
+        "skils.skils"
+      ]
+    },
+    "contact": {
+      "displayName": "div",
+      "type": "component",
+      "repeatable": false,
+      "component": "seo-div.div"
+    },
+    "titel": {
+      "type": "string"
+    },
+    "frame": {
+      "type": "component",
+      "repeatable": true,
+      "component": "div2.div-dental-treatments"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

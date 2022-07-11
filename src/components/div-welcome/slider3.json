@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_div_welcome3_slider3s",
+  "info": {
+    "displayName": "slider3",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cover_image3": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "richtext"
+    },
+    "button1": {
+      "type": "string"
+    },
+    "button2": {
+      "type": "string"
+    },
+    "button3": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    },
+    "text2": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_liste_frame_liste_dental_treatments",
+  "info": {
+    "displayName": "liste_dental_treatments",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ionc": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "nom_treatment": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "seo_description": {
+      "type": "richtext"
+    }
+  }
+}

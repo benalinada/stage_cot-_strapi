@@ -1,0 +1,63 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "About_page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "titel2": {
+      "type": "string"
+    },
+    "seo_titel2": {
+      "type": "string"
+    },
+    "div_prix": {
+      "displayName": "div1",
+      "type": "component",
+      "repeatable": true,
+      "component": "div1.div1"
+    },
+    "description_info": {
+      "displayName": "div14",
+      "type": "component",
+      "repeatable": false,
+      "component": "div14.div14"
+    },
+    "content": {
+      "displayName": "div",
+      "type": "component",
+      "repeatable": false,
+      "component": "div15.div"
+    },
+    "frame": {
+      "displayName": "frame",
+      "type": "component",
+      "repeatable": true,
+      "component": "frameee.frame"
+    }
+  }
+}

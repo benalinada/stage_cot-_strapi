@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_div14_div14s",
+  "info": {
+    "displayName": "div14",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "div_description": {
+      "displayName": "seo_div",
+      "type": "component",
+      "repeatable": true,
+      "component": "seo-div.seo-div"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

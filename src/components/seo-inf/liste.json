@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_seo_inf_listes",
+  "info": {
+    "displayName": "liste"
+  },
+  "options": {},
+  "attributes": {
+    "cover_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "nom_treatment": {
+      "type": "string"
+    }
+  }
+}

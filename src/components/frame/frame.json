@@ -1,0 +1,81 @@
+{
+  "collectionName": "components_frame_frames",
+  "info": {
+    "displayName": "frame",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "number": {
+      "type": "integer"
+    },
+    "titel": {
+      "type": "string"
+    },
+    "seo_new": {
+      "type": "richtext"
+    },
+    "icon2": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "lien": {
+      "type": "string"
+    },
+    "lin2": {
+      "type": "string"
+    },
+    "icon3": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "lin3": {
+      "type": "string"
+    },
+    "lin4": {
+      "type": "string"
+    },
+    "lin1": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "label1": {
+      "type": "string"
+    },
+    "label2": {
+      "type": "string"
+    },
+    "label3": {
+      "type": "string"
+    },
+    "label4": {
+      "type": "string"
+    }
+  }
+}

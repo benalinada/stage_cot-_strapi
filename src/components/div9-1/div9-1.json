@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_div9_1_div9_1s",
+  "info": {
+    "displayName": "div9-1"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "number": {
+      "type": "integer"
+    },
+    "nom": {
+      "type": "string"
+    }
+  }
+}

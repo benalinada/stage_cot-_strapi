@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_frameee_frames",
+  "info": {
+    "displayName": "frame"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "titel": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

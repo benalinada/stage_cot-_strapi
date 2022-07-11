@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_liste_tips_listes",
+  "info": {
+    "displayName": "liste"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "tip": {
+      "type": "string"
+    },
+    "seo_description": {
+      "type": "richtext"
+    }
+  }
+}

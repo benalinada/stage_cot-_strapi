@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_hours_hours",
+  "info": {
+    "displayName": "hours"
+  },
+  "options": {},
+  "attributes": {
+    "closing_time": {
+      "type": "time",
+      "required": true
+    },
+    "opening_time": {
+      "type": "time",
+      "required": true
+    },
+    "day": {
+      "type": "string"
+    }
+  }
+}

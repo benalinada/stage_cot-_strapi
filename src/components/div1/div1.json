@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_div1_div1s",
+  "info": {
+    "displayName": "div1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "frame1": {
+      "displayName": "frame_info",
+      "type": "component",
+      "repeatable": false,
+      "component": "div-info.frame-info"
+    },
+    "line": {
+      "displayName": "line",
+      "type": "component",
+      "repeatable": true,
+      "component": "line.line"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "buutton.button"
+    }
+  }
+}

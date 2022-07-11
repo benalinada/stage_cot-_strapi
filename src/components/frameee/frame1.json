@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_frameee_frame1s",
+  "info": {
+    "displayName": "frame1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "titel": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "string"
+    }
+  }
+}

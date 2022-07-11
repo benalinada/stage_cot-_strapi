@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_div13_div13s",
+  "info": {
+    "displayName": "div13"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "titel": {
+      "type": "string"
+    },
+    "seo_titel": {
+      "type": "richtext"
+    },
+    "seo_description": {
+      "type": "richtext"
+    }
+  }
+}

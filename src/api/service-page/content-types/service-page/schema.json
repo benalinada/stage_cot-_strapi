@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "service_pages",
+  "info": {
+    "singularName": "service-page",
+    "pluralName": "service-pages",
+    "displayName": "Service_page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "lien": {
+      "displayName": "descrioption",
+      "type": "component",
+      "repeatable": true,
+      "component": "description.descrioption"
+    },
+    "day1": {
+      "displayName": "div",
+      "type": "component",
+      "repeatable": true,
+      "component": "div16.div"
+    }
+  }
+}
